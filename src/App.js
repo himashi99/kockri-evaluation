@@ -7,7 +7,7 @@ import CandidateViewer from "./CandidateViewer";
 function App() {
   return (
     <div className="App">
-      <h1>Knockri Evaluation</h1>
+      <h1>Come Work at Knockri!</h1>
       <CandidateViewer />
     </div>
   );
